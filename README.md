@@ -1,2 +1,4 @@
-# python_csv_to_postgresql_to_python_csv
-How to import python csv to postgresql, How to connect with postgresql and How to connect postgresql with jupyter notebook for machine learning
+# Python Csv to Postgresql to Python Csv
+1) How to import python csv to postgresql. 
+2) How to connect with postgresql. 
+3) How to connect postgresql with Jupyter Notebook for Machine Learning
